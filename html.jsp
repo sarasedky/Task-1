@@ -15,7 +15,7 @@
        Enter the number of concurrent jobs: <input type="number" name="listOfjob"/>    
        </br>
        </br>
-       Enter the number of thread pool size: <input type="number" name="numberOfThreads"/>     
+       Enter thread pool size: <input type="number" name="numberOfThreads"/>     
  </br>
        </br>
             
